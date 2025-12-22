@@ -54,7 +54,7 @@
     "redux-thunk": "2.4.1",
     "reselect": "4.0.0",
     "semver": "^7.5.2",
-    "socket.io-client": "2.2.0",
+    "socket.io-client": "2.4.0",
     "string.prototype.matchall": "^4.0.2",
     "urlcat": "^2.0.4"
   },
