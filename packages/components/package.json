@@ -17,7 +17,7 @@
     "@apitable/react-contexify": "^5.0.7",
     "@floating-ui/dom": "^1.5.3",
     "@floating-ui/react": "^0.26.4",
-    "@rjsf/core": "^4.2.3",
+    "@rjsf/core": "^5.0.0",
     "ahooks": "^3.5.0",
     "purify-ts": "^2.0.1",
     "antd": "4.23.5",
